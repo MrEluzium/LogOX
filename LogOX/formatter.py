@@ -1,5 +1,5 @@
 import logging
-from logging import Formatter, PercentStyle, StrFormatStyle, StringTemplateStyle, BASIC_FORMAT
+from logging import Formatter, PercentStyle
 
 
 class FormatterOX(Formatter):
