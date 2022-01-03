@@ -20,6 +20,12 @@ LogOX is a small add-on over a standart logging module in Python, expanding the 
 
 - Debug messages formatting with file name and code line
 
+### Installation
+
+```
+pip install LogOX
+```
+
 ### Example
 
 ```python
