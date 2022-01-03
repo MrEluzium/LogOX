@@ -1,0 +1,8 @@
+test.py
+.idea/
+__pycache__/
+venv/
+log/
+build/
+dist/
+LogOX.egg-info/
