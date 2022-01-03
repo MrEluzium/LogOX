@@ -11,13 +11,9 @@ LogOX is a small add-on over a standart logging module in Python, expanding the 
 ### Feautures
 
 - Log messages store both in the console and in the file
-
 - Log files store in log/ directory and name by date
-
 - Rotating log file every 24 hours
-
 - Better built-in formatting style is used
-
 - Debug messages formatting with file name and code line
 
 ### Installation
